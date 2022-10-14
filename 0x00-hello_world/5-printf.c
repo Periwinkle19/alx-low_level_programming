@@ -3,7 +3,7 @@
 /**
  * main - print with proper grammar, but the outcome is a piece of art,
  * Return : 0 (success)
- *fprintf( stderr, "Exit")
+ fprintf(2,error)
  */
 int main(void)
 {
