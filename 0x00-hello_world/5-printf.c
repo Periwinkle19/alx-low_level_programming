@@ -2,8 +2,8 @@
 
 /**
  * main - print with proper grammar, but the outcome is a piece of art,
- * Return : 0 (success)
- fprintf(2,error)
+ * Return : 0 (success) 
+ *printf(Error spelling,grammer)
  */
 int main(void)
 {
