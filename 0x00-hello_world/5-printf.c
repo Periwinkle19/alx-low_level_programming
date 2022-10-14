@@ -4,6 +4,7 @@
  * main - print with proper grammar, but the outcome is a piece of art,
  * Return : 0 (success)
  */
+[stderr]: [Anything]
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,");
