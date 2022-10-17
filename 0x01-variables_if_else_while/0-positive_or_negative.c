@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main- assign a different value to int everytime it runs
+ * main - assign a different value to int everytime it runs
  * it executes and print it
  * Return : 0 (success)
  */
