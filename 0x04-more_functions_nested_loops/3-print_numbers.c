@@ -1,9 +1,15 @@
-On branch master
-Your branch is up to date with 'origin/master'.
+#include "main.h"
+/**
+ * print_numbers - prints the numbers, from 0 to 9,
+ * followed by a new line
+ */
+void print_numbers(void)
+{
+	int i;
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	../0x01-variables_if_else_while/.102-print_comb5.c.swp
-	3-print_numbers.c
-
-nothing added to commit but untracked files present (use "git add" to track)
+	for (i = 0; i < 10; i++)
+	{
+		_putchar(i + '0');
+	}
+	_putchar('\n');
+}
